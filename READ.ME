@@ -8,6 +8,8 @@ Skip long zoom meetings for design reviews. Crit 2 Go is a consolidated asynchro
 
 ##Business Case:How CRIT 2 GO Supports Product Goals
 
+Example Company: StudyNow is a platform that relies on "CRIT 2 GO" for onsolidated asynchronous design review app that makes the decision making process quick and efficient to release updates for improved user experiences across platforms. 
+
 |CRIT 2 GO accelerates the design-to-development pipeline by replacing synchronous critique meetings with a structured, 7-step async workflow — enabling product teams to collect structured stakeholder feedback, reach documented decisions, and ship approved designs faster without sacrificing quality or accountability.|
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 |By embedding the critique process directly into team workflows via Slack integration and role-based approvals, CRIT 2 GO ensures that every design decision is traceable, every voice is heard, and the Product Owner always has final authority — maintaining consistent, high-quality user experiences across a product's platform at the speed modern product teams require.|
@@ -16,23 +18,10 @@ Skip long zoom meetings for design reviews. Crit 2 Go is a consolidated asynchro
 peed modern product teams require.|
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-
-
 ##Context, user, and problem:
 who the user is, what workflow you are improving, and why it matters
 
-
-
-
-
-
-
-
+User: Product Teams (universal for any company)
 
 
 
@@ -41,15 +30,26 @@ who the user is, what workflow you are improving, and why it matters
 ##Solution and design:
 what you built, how it works, and the key design choices
 
+###Soltion: CRIT 2 GO is a Web App that can be used as a time efficient alternative for 1+ hour zoom product design review
+meetings. CRIT 2 GO can be integrated into slack as a workflow app.
 
+The design choice captures various roles of a product team and how they will interact with the 7-step product design review 
+workflow based on their role.
 
+The design choice incorporates a consolidated design review that is flexible to submit and review designs by a provided 
+deadline. 
 
-
-
-
-
-
-
+###Technical Design Requirements:
+- 7 workflow steps with progress stepper and role-based gating
+- Logo matches the uploaded PNG exactly (green checkbox, purple "CRIT 2", blue "GO")
+- Drag-and-drop file upload with deadline picker
+- Stakeholder tagging modal with avatar initials
+- Dual feedback: written comments + live voice recording (Web Audio API)
+- Real-time vote tallies with animated bar chart
+- Product Owner approval flow with optional notes
+- Step 7 dev-ready success screen with Slack notification callout
+- Slack integration modal with webhook setup instructions and auto-notifications at every step
+- WCAG 2.1 AA compliant: ARIA roles, focus management, live regions, keyboard navigation throughout
 
 
 -----------------------------------------------------------------------------------------------------------------------
