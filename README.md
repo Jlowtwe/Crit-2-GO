@@ -23,7 +23,7 @@ who the user is, what workflow you are improving, and why it matters
 
 **User**: Product Teams (universal for any company)
 ---------------------------------
-|   ###Product Team Roles       |
+|   ### Product Team Roles       |
 ---------------------------------
 | 
 
