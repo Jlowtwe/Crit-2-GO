@@ -121,7 +121,7 @@ Facilitator writes and sends notes. Stakeholders re-clarify misremembered decisi
 
 **Total: 2.5–4 hours of team time per critique session**
 --------------------------------------------------------
-##CRIT 2 GO Async Workflow (per session)
+## CRIT 2 GO Async Workflow (per session)
 Step 1 · 5 min
 **Designer uploads files and sets deadline**
 Drag-and-drop upload, deadline picker. Slack notification fires automatically.
