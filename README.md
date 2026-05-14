@@ -122,31 +122,32 @@ Facilitator writes and sends notes. Stakeholders re-clarify misremembered decisi
 **Total: 2.5–4 hours of team time per critique session**
 --------------------------------------------------------
 ## CRIT 2 GO Async Workflow (per session)
-Step 1 · 5 min
+
+- Step 1 · 5 min
 **Designer uploads files and sets deadline**
 Drag-and-drop upload, deadline picker. Slack notification fires automatically.
 
--Step 2 · 5 min
+- Step 2 · 5 min
 **Designer writes prompt and context**
 Structured prompt guides reviewers to focus on the right areas. No agenda doc needed.
 
--Step 3 · 2 min
+- Step 3 · 2 min
 **Tag stakeholders**
 Stakeholders receive Slack notification immediately.
 
--Step 4 · 5–10 min per reviewer
+- Step 4 · 5–10 min per reviewer
 **Async feedback (anytime, any timezone)**
 Written comments or voice notes submitted when convenient — no scheduling required.
 
--Step 5 · 2 min
+- Step 5 · 2 min
 **Vote on next steps**
 One click — iterate or approve. Results visible in real time.
 
--Step 6 · 3 min
+- Step 6 · 3 min
 **Product Owner approves**
 Reviews summary and casts final decision. Slack notification fires.
 
--Step 7 · 0 min
+- Step 7 · 0 min
 **Dev team notified automatically**
 Slack message sent. Audit trail complete. No recap needed.
 
