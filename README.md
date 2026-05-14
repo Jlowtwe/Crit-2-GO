@@ -23,7 +23,7 @@ who the user is, what workflow you are improving, and why it matters
 
 **User**: Product Teams (universal for any company)
 ---------------------------------
-|   ### Product Team Roles       |
+|      Product Team Roles       |
 ---------------------------------
 | 
 
@@ -72,7 +72,7 @@ Data Reported Improvements:
 
 ### Side-by-Side Comparison
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-|   ### Dimension               | ### 1-Hour ZOOM MEETING                                                              | ### CRIT 2 GO                                        |
+|   ### Dimension               | ### 1-Hour ZOOM MEETING                                                             | ### CRIT 2 GO                                         |
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **Total Time per critique**   | 60–90 min (meeting only) + scheduling overhead                                      | ~12–18 min total async participation per person|                    
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
