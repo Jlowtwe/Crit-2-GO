@@ -71,17 +71,12 @@ Data Reported Improvements:
 - **7 Steps Logged**: Full audit trail
 
 ### Side-by-Side Comparison
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-|   ### Dimension               | ### 1-Hour ZOOM MEETING                                                             | ### CRIT 2 GO                                         |
--------------------------------   ----------------------------------------------------------------------------------    ------------------------------------------------------
+|   Dimension                   | 1-Hour ZOOM MEETING                                                                 |  CRIT 2 GO                                            |
+-------------------------------   ----------------------------------------------------------------------------------    -------------------------------------------------------
 | **Total Time per critique**   | 60–90 min (meeting only) + scheduling overhead                                      | ~12–18 min total async participation per person|                    
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **Scheduling cost**           | High — finding a shared slot for 4–8+ people across timezones can take 1–3 days     | Zero — stakeholders respond within their own schedules|
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **Calendar block required**   | Yes — 60–90 min block for all attendees                                             | No — no calendar block needed                         |
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **Participation quality**     | Dominated by loudest voices; quieter stakeholders under-contribute; groupthink risk | Every stakeholder contributes independently; written + voice options support all communication styles|
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **Feedback format**           | Verbal only — no permanent record unless manually noted                             | Written comments, voice recordings, and structured votes — all logged and searchable|
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **Documented audit trail**    | No — depends on note-taker accuracy												  | Yes — every step, vote, and decision is timestamped   |
