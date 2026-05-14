@@ -18,7 +18,7 @@ Example Company: StudyNow is a platform that relies on "CRIT 2 GO" for onsolidat
 peed modern product teams require.|
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Context, user, and problem:
+## Context, user, and problem:
 who the user is, what workflow you are improving, and why it matters
 
 **User**: Product Teams (universal for any company)
@@ -72,7 +72,7 @@ Data Reported Improvements:
 
 ### Side-by-Side Comparison
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-|   ### Dimension               | ###1-Hour ZOOM MEETING                                                              | ###CRIT 2 GO                                          |
+|   ### Dimension               | ### 1-Hour ZOOM MEETING                                                              | ### CRIT 2 GO                                        |
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **Total Time per critique**   | 60–90 min (meeting only) + scheduling overhead                                      | ~12–18 min total async participation per person|                    
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
