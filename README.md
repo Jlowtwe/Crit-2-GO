@@ -2,7 +2,7 @@ READ.ME
 
 #CRIT 2 GO: Web App 
 ### featuring a slack integration 
-###Overview
+### Overview
 Skip long zoom meetings for design reviews. Crit 2 Go is a consolidated asynchronous design review app that makes the decision making process quick and efficient to release updates for improved user experiences across platforms. 
 
 
@@ -101,7 +101,7 @@ Data Reported Improvements:
 | **Cost per session **         | 6–8 people × 1.5 hr = 9–12 person-hours per critique                                | 6–8 people × ~15 min async = 1.5–2 person-hours per critique|
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Time Breakdown: Where the Hours Go
+## Time Breakdown: Where the Hours Go
 Traditional Zoom Critique (per session)
 -Day 0–2
 **Scheduling (30–60 min across stakeholders)**
