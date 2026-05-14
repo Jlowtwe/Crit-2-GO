@@ -1,12 +1,12 @@
 READ.ME
 
-#CRIT 2 GO: Web App 
+# CRIT 2 GO: Web App 
 ### featuring a slack integration 
 ### Overview
 Skip long zoom meetings for design reviews. Crit 2 Go is a consolidated asynchronous design review app that makes the decision making process quick and efficient to release updates for improved user experiences across platforms. 
 
 
-##Business Case:How CRIT 2 GO Supports Product Goals
+## Business Case:How CRIT 2 GO Supports Product Goals
 
 Example Company: StudyNow is a platform that relies on "CRIT 2 GO" for onsolidated asynchronous design review app that makes the decision making process quick and efficient to release updates for improved user experiences across platforms. 
 
@@ -29,10 +29,10 @@ who the user is, what workflow you are improving, and why it matters
 
 -----------------------------------------------------------------------------------------------------------------------
 
-##Solution and design:
+## Solution and design:
 what you built, how it works, and the key design choices
 
-###Soltion: CRIT 2 GO is a Web App that can be used as a time efficient alternative for 1+ hour zoom product design review
+### Soltion: CRIT 2 GO is a Web App that can be used as a time efficient alternative for 1+ hour zoom product design review
 meetings. CRIT 2 GO can be integrated into slack as a workflow app.
 
 The design choice captures various roles of a product team and how they will interact with the 7-step product design review 
@@ -41,7 +41,7 @@ workflow based on their role.
 The design choice incorporates a consolidated design review that is flexible to submit and review designs by a provided 
 deadline. 
 
-###Technical Design Requirements:
+### Technical Design Requirements:
 - 7 workflow steps with progress stepper and role-based gating
 - Logo matches the uploaded PNG exactly (green checkbox, purple "CRIT 2", blue "GO")
 - Drag-and-drop file upload with deadline picker
@@ -55,7 +55,7 @@ deadline.
 
 -----------------------------------------------------------------------------------------------------------------------
 
-##Evaluation and results:
+## Evaluation and results:
 what baseline you compared against, what test cases or rubric you used, and what you found
 
 ### Efficiency Evaluation: CRIT 2 GO vs. 1-Hour Facilitated Design Review/Critique Zoom Meeting
@@ -70,7 +70,7 @@ Data Reported Improvements:
 - **Timezon Safe**: Distributed teams included
 - **7 Steps Logged**: Full audit trail
 
-###Side-by-Side Comparison
+### Side-by-Side Comparison
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 |   ### Dimension               | ###1-Hour ZOOM MEETING                                                              | ###CRIT 2 GO                                          |
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -153,7 +153,7 @@ Slack message sent. Audit trail complete. No recap needed.
 **Total: ~15–20 min of active participation per person, spread across their day**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
-##Artifact snapshot:
+## Artifact snapshot:
 screenshots, sample inputs/outputs, a short recorded clip, or another concise way to show what the project does
 
 
