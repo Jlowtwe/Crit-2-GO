@@ -25,7 +25,7 @@ who the user is, what workflow you are improving, and why it matters
 |--------------------------------|
 |      Product Managers          |
 |      Product Designers         |
-|   Software Engineers/Developers|
+|   Software Engineers/Developers |
 |      Product Owners            |
 |  Internal Stakeholders         |   
 
