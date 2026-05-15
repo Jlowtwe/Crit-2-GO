@@ -22,10 +22,10 @@ peed modern product teams require.|
 who the user is, what workflow you are improving, and why it matters
 
 **User**: Product Teams (universal for any company)
----------------------------------
+
 |      Product Team Roles       |
----------------------------------
-| 
+|--------------------------------|
+|                                 |
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -72,29 +72,21 @@ Data Reported Improvements:
 
 ### Side-by-Side Comparison
 |   Dimension                   | 1-Hour ZOOM MEETING                                                                 |  CRIT 2 GO                                            |
--------------------------------   ----------------------------------------------------------------------------------    -------------------------------------------------------
+|-----------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------|
 | **Total Time per critique**   | 60–90 min (meeting only) + scheduling overhead                                      | ~12–18 min total async participation per person|                    
 | **Scheduling cost**           | High — finding a shared slot for 4–8+ people across timezones can take 1–3 days     | Zero — stakeholders respond within their own schedules|
 | **Calendar block required**   | Yes — 60–90 min block for all attendees                                             | No — no calendar block needed                         |
 | **Participation quality**     | Dominated by loudest voices; quieter stakeholders under-contribute; groupthink risk | Every stakeholder contributes independently; written + voice options support all communication styles|
 | **Feedback format**           | Verbal only — no permanent record unless manually noted                             | Written comments, voice recordings, and structured votes — all logged and searchable|
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **Documented audit trail**    | No — depends on note-taker accuracy												  | Yes — every step, vote, and decision is timestamped   |
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **Distributed / remote teams**| Difficult — timezone conflicts, fatigue, connection issues						  | Native — fully async by design                        |
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **Role clarity**              | Often unclear; facilitator required to manage roles delivery						  | Role-based access enforces Designer → Stakeholder → Product Owner hierarchy|
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **Decision traceability**     | Decisions made verbally — frequently forgotten or misremembered					  | All votes and approval decisions are recorded with timestamps|
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **Slack / tool integration**  | Manual — requires someone to post recaps to Slack after the meetings				  | Automatic — Slack notified at every workflow step     |
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **Iteration speed**           | Next critique requires scheduling another meeting (days later)                      |New critique cycle can start immediately after approval or change request|
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **Facilitator needed**        | Yes — someone must prep agenda, run meeting, and send recap                         | No — the workflow is self-guided for all roles        |
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-| **Cost per session **         | 6–8 people × 1.5 hr = 9–12 person-hours per critique                                | 6–8 people × ~15 min async = 1.5–2 person-hours per critique|
-------------------------------------------------------------------------------------------------------------------------------------------------
+| **Cost per session**         | 6–8 people × 1.5 hr = 9–12 person-hours per critique                                | 6–8 people × ~15 min async = 1.5–2 person-hours per critique|
+
 
 ## Time Breakdown: Where the Hours Go
 Traditional Zoom Critique (per session)
