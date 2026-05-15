@@ -10,21 +10,24 @@ Skip long zoom meetings for design reviews. Crit 2 Go is a consolidated asynchro
 
 Example Company: StudyNow is a platform that relies on "CRIT 2 GO" for onsolidated asynchronous design review app that makes the decision making process quick and efficient to release updates for improved user experiences across platforms. 
 
-|- CRIT 2 GO accelerates the design-to-development pipeline by replacing synchronous critique meetings with a structured, 7-step async workflow — enabling product teams to collect structured stakeholder feedback, reach documented decisions, and ship approved designs faster without sacrificing quality or accountability.|  
-
+|CRIT 2 GO Supports Product Goals|  
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|- By embedding the critique process directly into team workflows via Slack integration and role-based approvals, CRIT 2 GO ensures that every design decision is traceable, every voice is heard, and the Product Owner always has final authority — maintaining consistent, high-quality user experiences across a product's platform at the speed modern product teams require.|
-|- As a use case, a product team launching a new platform feature can run a full critique cycle in under 24 hours across multiple timezones — replacing a once-weekly 1-hour Zoom critique with on-demand async reviews that compress feedback loops, reduce blockers, and keep engineering delivery on schedule.|
-peed modern product teams require.|
+| CRIT 2 GO accelerates the design-to-development pipeline by replacing synchronous critique meetings with a structured, 7-step async workflow — enabling product teams to collect structured stakeholder feedback, reach documented decisions, and ship approved designs faster without sacrificing quality or accountability.|  
+| By embedding the critique process directly into team workflows via Slack integration and role-based approvals, CRIT 2 GO ensures that every design decision is traceable, every voice is heard, and the Product Owner always has final authority — maintaining consistent, high-quality user experiences across a product's platform at the speed modern product teams require.|
+| As a use case, a product team launching a new platform feature can run a full critique cycle in under 24 hours across multiple timezones — replacing a once-weekly 1-hour Zoom critique with on-demand async reviews that compress feedback loops, reduce blockers, and keep engineering delivery on schedule.|
 
 ## Context, user, and problem:
 who the user is, what workflow you are improving, and why it matters
 
 **User**: Product Teams (universal for any company)
 
-|      Product Team Roles       |
+|      Product Team Roles        |
 |--------------------------------|
-|                                 |
+|      Product Managers          |
+|      Product Designers         |
+|   Software Engineers/Developers|
+|      Product Owners            |
+|  Internal Stakeholders         |   
 
 -----------------------------------------------------------------------------------------------------------------------
 
