@@ -21,6 +21,8 @@ who the user is, what workflow you are improving, and why it matters
 
 **User**: Product Teams (universal for any company)
 
+**Problem**: Product Teams (universal for any company)
+
 |      Product Team Roles        |
 | :----------------------------: |
 |      Product Managers          |
@@ -109,7 +111,8 @@ Includes setup, introductions, walkthrough, open discussion, and often off-topic
 Facilitator writes and sends notes. Stakeholders re-clarify misremembered decisions. Decisions posted to Slack manually.
 
 **Total: 2.5–4 hours of team time per critique session**
---------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ## CRIT 2 GO Async Workflow (per session)
 
 - Step 1 · 5 min
@@ -142,12 +145,28 @@ Slack message sent. Audit trail complete. No recap needed.
 
 **Total: ~15–20 min of active participation per person, spread across their day**
 
+------------------------------------------------------------------------------------------------
+
+## Results Summary
+❌✅⚠️
+|   CRIT 2 GO    | Zoom Meeting |
+|----------------|--------------|
+|✅ 75% reduction in person-hours per critique | ⚠️ Best for: Early ideation / ambiguous problems
+|✅ Zero scheduling overhead| ⚠️ Good for: Building team rapport |
+|✅ 100% audit trail — every decision logged| ⚠️ Good for: Real-time whiteboarding |
+|✅ Inclusive of all communication styles|  ❌ Poor for: Async / distributed teams |
+|✅ Works across timezones| ❌ Poor for: Documented decisions |
+|✅ Automatic Slack integration| ❌ Poor for: High-frequency review cycles |
+|✅ Scales to any team size| ❌ Poor for: Introverted contributors |
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## Artifact snapshot:
 screenshots, sample inputs/outputs, a short recorded clip, or another concise way to show what the project does
 
 ### Live Web App Link via GitHub pages: http://jlowtwe.github.io/Crit-2-GO/
 
+### Shareable Slide Deck File: http://jlowtwe.github.io/Crit-2-GO/
 
 
 
