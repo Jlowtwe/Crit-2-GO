@@ -190,13 +190,35 @@ screenshots, sample inputs/outputs, a short recorded clip, or another concise wa
 - what you built: An asynchronous Web App & Slack Integration for design review
 - why GenAI is useful for this task: Improves efficiency across product teams and boosts team capcity. GenAI helps to fill gaps and improves teams running efficiently
 - what you compared it against: 1+ Hour traditional Zoom meetings
-- what worked, what failed, and where a human should stay involved: A subject matter expert is crucial for human review to understand all of the steps in the design review process. There are some flaws produced in the product designer have similar access to the workflow in steps 3 – 7, which needs improvement from human technical skills to imrpove the workflow. Overall the functionality of the app worked very well in comparison to traditional Zoom meetings and provided a realistic prototype. 
+- what worked, what failed, and where a human should stay involved: A subject matter expert is crucial for human review to understand all of the steps in the design review process. There are some flaws produced in the product designer have similar access to the workflow in steps 3 – 7, which needs improvement from human technical skills to imrpove the workflow. Overall the functionality of the app worked very well in comparison to traditional Zoom meetings and provided a realistic prototype. Overeall Gen AI helps to improve the product development process faster. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ## Setup and Usage Instructions
 
+### Setup Instructions
+- Access to a LLM provider: Claude Code
+- List a 7-step product design review/workflow
+- Provide technical/context on the requirements of the design review workflow in 3 sentences
+- The Web app is required to align with WCAG Requirements
+- Leverage the github desktop app and sublime text for new commits
 
+### Usage Instructions
+Follow the 7-step workflow using the provided web app link under the artifact section
+- Step 1: Design uploaded & deadline set
+- Step 3: Stakeholders tagged & notified
+- Step 4: New feedback submitted
+- Step 5: All votes counted
+- Step 6: Awaiting Product Owner approval
+- Step 7: 🚀 Design approved — ready for dev
 
+Install the workflow in slack via the steps below:
 
+- Go to api.slack.com/apps and click Create New App → From Scratch
+- Name your app "CRIT 2 GO" and choose your workspace
+- Under Features → Incoming Webhooks, toggle it On
+- Click Add New Webhook to Workspace and choose the #design-critique channel
+- Copy the Webhook URL and paste it above
+- CRIT 2 GO will now notify your team at every workflow step automatically
+  
 
 
