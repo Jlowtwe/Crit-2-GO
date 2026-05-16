@@ -176,6 +176,24 @@ screenshots, sample inputs/outputs, a short recorded clip, or another concise wa
 
 ### Shareable Slide Deck File:[(https://new.express.adobe.com/id/urn:aaid:sc:US:29264932-0043-4ae4-8fcb-29fffbf8571b?taskID=presentation&q=line&category=search&learn=exercise%3Aexpress%2Fhow-to%2Fin-app%2Fhow-to-make-presentations%3A-1)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+## Key Findings & Learnings
+
+- the user and workflow | Product Teams are able to utilize a 7-step workflow for design reviews;
+  - Step 1: Design uploaded & deadline set
+  - Step 3: Stakeholders tagged & notified
+  - Step 4: New feedback submitted
+  - Step 5: All votes counted
+  - Step 6: Awaiting Product Owner approval
+  - Step 7: 🚀 Design approved — ready for dev
+  
+- what you built: An asynchronous Web App & Slack Integration for design review
+- why GenAI is useful for this task: Improves efficiency across product teams and boosts team capcity. GenAI helps to fill gaps and improves teams running efficiently
+- what you compared it against: 1+ Hour traditional Zoom meetings
+- what worked, what failed, and where a human should stay involved: A subject matter expert is crucial for human review to understand all of the steps in the design review process. There are some flaws produced in the product designer have similar access to the workflow in steps 3 – 7, which needs improvement from human technical skills to imrpove the workflow. Overall the functionality of the app worked very well in comparison to traditional Zoom meetings and provided a realistic prototype. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+## Setup and Usage Instructions
 
 
 
