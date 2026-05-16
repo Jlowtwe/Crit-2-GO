@@ -174,7 +174,7 @@ screenshots, sample inputs/outputs, a short recorded clip, or another concise wa
 
 ### Live Web App Link via GitHub Pages: http://jlowtwe.github.io/Crit-2-GO/
 
-### Shareable Slide Deck File: [http://jlowtwe.github.io/Crit-2-GO/](https://new.express.adobe.com/id/urn:aaid:sc:US:29264932-0043-4ae4-8fcb-29fffbf8571b?taskID=presentation&q=line&category=search&learn=exercise%3Aexpress%2Fhow-to%2Fin-app%2Fhow-to-make-presentations%3A-1)
+### Shareable Slide Deck File:[(https://new.express.adobe.com/id/urn:aaid:sc:US:29264932-0043-4ae4-8fcb-29fffbf8571b?taskID=presentation&q=line&category=search&learn=exercise%3Aexpress%2Fhow-to%2Fin-app%2Fhow-to-make-presentations%3A-1)
 
 
 
