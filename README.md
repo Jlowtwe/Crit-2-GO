@@ -146,7 +146,7 @@ Slack message sent. Audit trail complete. No recap needed.
 ## Artifact snapshot:
 screenshots, sample inputs/outputs, a short recorded clip, or another concise way to show what the project does
 
-
+### Live Web App Link via GitHub pages: http://jlowtwe.github.io/Crit-2-GO/
 
 
 
