@@ -148,7 +148,6 @@ Slack message sent. Audit trail complete. No recap needed.
 ------------------------------------------------------------------------------------------------
 
 ## Results Summary
-❌✅⚠️
 |   CRIT 2 GO    | Zoom Meeting |
 |----------------|--------------|
 |✅ 75% reduction in person-hours per critique | ⚠️ Best for: Early ideation / ambiguous problems
