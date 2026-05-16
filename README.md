@@ -19,9 +19,13 @@ Example Company: StudyNow is a platform that relies on "CRIT 2 GO" for onsolidat
 ## Context, user, and problem:
 who the user is, what workflow you are improving, and why it matters
 
+### Boost Time Efficiency for Design review
+
+Example Case: **StudyNow** is a fictional company with a Web App platform featuring study tools for students. StudyNow relies om Crit 2 Go to meet business goals of building consistent and WCAG compliant user experiences with on time product delivery. StudyNow boosts efficiency on time management and handoff to engineers for release updates.
+
 **User**: Product Teams (universal for any company)
 
-**Problem**: Product Teams (universal for any company)
+**Problem**: Traditional synchronous design review meetings create team blockers with scheduling overhead, participation quality, and cuts into team capacity across product teams.
 
 |      Product Team Roles        |
 | :----------------------------: |
@@ -30,6 +34,11 @@ who the user is, what workflow you are improving, and why it matters
 |  Software Engineers/Developers |
 |      Product Owners            |
 |  Internal Stakeholders         |   
+
+Current Process/Workflow = 1+ hour zoom meetings 
+cut into team capacity & Scheduling conflicts
+
+CRIT 2 GO/New Workflow = 7-step async workflow — enabling product teams to collect structured stakeholder feedback faster
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -163,9 +172,9 @@ Slack message sent. Audit trail complete. No recap needed.
 ## Artifact snapshot:
 screenshots, sample inputs/outputs, a short recorded clip, or another concise way to show what the project does
 
-### Live Web App Link via GitHub pages: http://jlowtwe.github.io/Crit-2-GO/
+### Live Web App Link via GitHub Pages: http://jlowtwe.github.io/Crit-2-GO/
 
-### Shareable Slide Deck File: http://jlowtwe.github.io/Crit-2-GO/
+### Shareable Slide Deck File: [http://jlowtwe.github.io/Crit-2-GO/](https://new.express.adobe.com/id/urn:aaid:sc:US:29264932-0043-4ae4-8fcb-29fffbf8571b?taskID=presentation&q=line&category=search&learn=exercise%3Aexpress%2Fhow-to%2Fin-app%2Fhow-to-make-presentations%3A-1)
 
 
 
